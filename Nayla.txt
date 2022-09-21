@@ -1,4 +1,3 @@
-essa chamada pull request. 
 É basicamente uma forma de você dizer: acabei o meu trabalho, preciso integrá-lo no ramo principal e eis aqui o que eu fiz. 
 Ao utilizar essa funcionalidade, é gerado um registro no servidor (por exemplo, o GitHub, que é bem popular) 
 que destaca as diferenças de código entre o ramo no qual você trabalhou e o ramo alvo da entrega. 
